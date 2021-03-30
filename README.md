@@ -1,6 +1,6 @@
 ### Hey there! I'm JP!
 
-### :suspect: Something Something About Me  💻 
+## :suspect: &nbsp;Something Something About Me &nbsp; 💻 
 - 🕵️   &nbsp; Exploring new technologies and developing software solutions.
 - 🎓   &nbsp; Bachelor of Laws (LL.B) at Universidade de Brasília.
 - 💪🏽   &nbsp; Improving my skills everyday.
@@ -11,7 +11,16 @@ Hobbies : Books 📚 | Music 🎧 | Football 🏈  | Krav Maga 🥊
 
 ***
 
-### 🛠  Tech Stack
+## 🤝 &nbsp;Let's get in touch &nbsp;🤝
+<p style="display: flex; justify-content: center;">
+    <a href="https://github.com/jbtte" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="padding-right: 30px;> </a>
+   <a href="https://linkedin.com/in/jbtte" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="mailto:jbaumotte@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+***
+
+## 🛠 &nbsp; Tech Stack &nbsp; 👨‍💻
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" height="40" style="padding-right: 27px;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="Ruby on Rails" height="40">
@@ -41,15 +50,6 @@ Hobbies : Books 📚 | Music 🎧 | Football 🏈  | Krav Maga 🥊
 </p>
 
 *** 
-
-Let's get in touch:
-<p style="display: flex; justify-content: center;">
-    <a href="https://github.com/jbtte" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="padding-right: 30px;> </a>
-   <a href="https://linkedin.com/in/jbtte" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="mailto:jbaumotte@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-***
 
 ### 📈 GitHub Stats
 <p>
