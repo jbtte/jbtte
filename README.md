@@ -1,4 +1,4 @@
-### Hey there! I'm JP!
+## Hey there!&nbsp; 👋 &nbsp; I'm JP!
 
 ## :suspect: &nbsp;Something Something About Me &nbsp; 💻 
 - 🕵️   &nbsp; Exploring new technologies and developing software solutions.
