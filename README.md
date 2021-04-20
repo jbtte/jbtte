@@ -1,5 +1,7 @@
 ## Hey there!&nbsp; 👋 &nbsp; I'm JP!
 
+### Check out my website - [jbtte.me]
+
 ## :suspect: &nbsp;Something Something About Me &nbsp; 💻 
 - 🕵️   &nbsp; Exploring new technologies and developing software solutions.
 - 🎓   &nbsp; Bachelor of Laws (LL.B) at Universidade de Brasília.
@@ -73,9 +75,9 @@ Hobbies : Books 📚 | Music 🎸 | Football 🏈  | Krav Maga 🥊
 *** 
 
 ### 📈 GitHub Stats
-<p>
+<div>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbtte&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtte&theme=tokyonight)
-</p>
+</div>
