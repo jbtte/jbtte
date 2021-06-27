@@ -79,7 +79,9 @@ Hobbies : Books 📚 | Music 🎸 | Football 🏈  | Krav Maga 🥊
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbtte&show_icons=true&theme=tokyonight)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtte&theme=tokyonight)(https://github.com/jbtte/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtte&theme=tokyonight)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbtte)](https://github.com/jbtte/github-readme-stats)
 
   
   
