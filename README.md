@@ -1,6 +1,6 @@
 ## Hey there!&nbsp; 👋 &nbsp; I'm JP!
 
-### [Check out my website](https://wwww.jbtte.me)
+### [Check out my website](https://www.jbtte.me)
 
 ## :suspect: &nbsp;Something Something About Me &nbsp; 💻 
 - 🕵️   &nbsp; Exploring new technologies and developing software solutions.
